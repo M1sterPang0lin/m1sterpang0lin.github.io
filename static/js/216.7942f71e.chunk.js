@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreoo=self.webpackChunkcreoo||[]).push([[216],{2216:function(e,c,o){e.exports=o.p+"static/media/envelop.c74fae45f6abd1490e03.png"}}]);

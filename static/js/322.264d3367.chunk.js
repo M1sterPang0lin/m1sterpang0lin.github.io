@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreoo=self.webpackChunkcreoo||[]).push([[322],{3322:function(e,o,t){e.exports=t.p+"static/media/Hotpot.864ae5994d30f6502285.png"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreoo=self.webpackChunkcreoo||[]).push([[949],{6949:function(e,c,o){e.exports=o.p+"static/media/logo.ee23bea85da8bc635154.png"}}]);

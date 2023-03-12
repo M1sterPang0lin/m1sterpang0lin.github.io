@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcreoo=self.webpackChunkcreoo||[]).push([[751],{3751:function(e,s,a){e.exports=a.p+"static/media/Callus-origin.2595b1a6d3ff59eba565.png"}}]);
